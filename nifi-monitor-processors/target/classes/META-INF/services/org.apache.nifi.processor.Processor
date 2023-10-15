@@ -1,0 +1,9 @@
+com.ztgx.nifi.processor.ZtgxQualityMonitorProcessor
+com.ztgx.nifi.processor.ZtgxErrorDataHandleProcessor
+com.ztgx.nifi.processor.ZtgxRightDataHandleProcessor
+com.ztgx.nifi.processor.ZtgxErrorDataBatchSaveToDBProcessor
+com.ztgx.nifi.processor.ZtgxQmProcessor
+com.ztgx.nifi.processor.ZtgxQmDataHandlerProcessor
+com.ztgx.nifi.processor.ZtgxModifiedErrorSourceProcessor
+com.ztgx.nifi.processor.ZtgxModifiedRightSourceProcessor
+com.ztgx.nifi.processor.ZtgxQmRewriteProcessor

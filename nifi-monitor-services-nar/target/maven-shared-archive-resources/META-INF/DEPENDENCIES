@@ -1,0 +1,17 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-monitor-services-nar
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-monitor-services (https://nifi.apache.org/nifi-nar-bundles/nifi-ztgx-monitor-bundle/nifi-monitor-services) org.apache.nifi:nifi-monitor-services:jar:1.13.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-monitor-services-api (https://nifi.apache.org/nifi-nar-bundles/nifi-ztgx-monitor-bundle/nifi-monitor-services-api) org.apache.nifi:nifi-monitor-services-api:jar:1.13.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
